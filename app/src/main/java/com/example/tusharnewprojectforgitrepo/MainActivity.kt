@@ -13,6 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.tusharnewprojectforgitrepo.ui.theme.TusharNewProjectForGitRepoTheme
 
 class MainActivity : ComponentActivity() {
+    //yes this is tushar commited okay
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
